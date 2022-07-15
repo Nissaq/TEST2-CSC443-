@@ -1,14 +1,10 @@
-<?php 
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname= "funrundatabase";
 
-$server = "localhost";
-$user = "root";
-$pass = "";
-$database = "registerfunrun";
-
-$conn = mysqli_connect($server, $user, $pass, $database);
-
-if (!$conn) {
-    die("<script>alert('Connection Failed.')</script>");
-}
+// Create connection
+$conn = mysqli_connect($servername, $username, $password,$dbname);
 
 ?>
