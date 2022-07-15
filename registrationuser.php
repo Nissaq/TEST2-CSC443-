@@ -96,7 +96,7 @@ include('config.php');
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Your Name" name="name" id="name" required>
 
-    <label for="hpnumber"><b>Hp number</b></label>
+    <label for="hpnumber"><b>Phone number</b></label>
     <input type="text" placeholder="Enter Your Phone Number" name="hpnumber" id="hpnumber" required>
 
 
