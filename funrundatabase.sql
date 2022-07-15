@@ -39,7 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`email`, `name`, `hpnumber`, `gender`) VALUES
-(1, 'lala@gmail.com', 'lala', '01131633836','female');
+('nisa@gmail.com', 'nisa', '01981831721','female');
 
 -- --------------------------------------------------------
 
