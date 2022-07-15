@@ -64,7 +64,7 @@ a {
 
 /* Set a grey background color and center the text of the "sign in" section */
 .signin {
-  background-color: #f1f1f1;
+  background-color: #FFC0CB;
   text-align: center;
 }
 </style>
