@@ -81,10 +81,10 @@ include('config.php');
 
 
   ?>
-	<form class="form" action="datauserregistration.php" method="POST" style="width:100%;">
+	<form class="form" action="registrationdata.php" method="POST" style="width:100%;">
 	<br>
 
-<form action="datauserregistration.php">
+<form action="registrationdata.php">
   <div class="container">
     <h1>Register</h1>
     <p>Fill in the form to create an account.</p>
