@@ -37,7 +37,7 @@ s0.parentNode.insertBefore(s1,s0);
 <div class="w3-container">
  
 </div>
-<p class="login-register-text">Don't have an account? <a href="userregistration.php">Register Here</a>.</p>
+<p class="login-register-text">Don't have an account? <a href="registrationuser.php">Register Here</a>.</p>
 
 <p>Thank you for joining us!</p>
 </div>
