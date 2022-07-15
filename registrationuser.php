@@ -57,9 +57,9 @@ hr {
   opacity: 1;
 }
 
-/* Add a blue text color to links */
+/* Add a pink text color to links */
 a {
-  color: dodgerblue;
+  color: pink;
 }
 
 /* Set a grey background color and center the text of the "sign in" section */
