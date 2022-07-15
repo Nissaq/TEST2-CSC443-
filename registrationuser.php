@@ -87,17 +87,17 @@ include('config.php');
 <form action="datauserregistration.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Fill in the form to create an account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
 
     <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <input type="text" placeholder="Enter Your Name" name="name" id="name" required>
 
     <label for="hpnumber"><b>Hp number</b></label>
-    <input type="text" placeholder="Enter Hpnumber" name="hpnumber" id="hpnumber" required>
+    <input type="text" placeholder="Enter Your Phone Number" name="hpnumber" id="hpnumber" required>
 
 
     <span id="span2">Gender:</span>
