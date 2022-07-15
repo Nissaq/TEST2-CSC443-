@@ -43,8 +43,8 @@ hr {
 
 /* Set a style for the submit button */
 .registerbtn {
-  background-color: #008B8B;
-  color: white;
+  background-color: #FFC0CB;
+  color: pink;
   padding: 16px 20px;
   margin: 8px 0;
   border: none;
