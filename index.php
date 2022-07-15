@@ -30,7 +30,7 @@ s0.parentNode.insertBefore(s1,s0);
 <body>
 
 <div class="w3-container w3-teal">
-<p><center> 5K MARATHON EVENT</center></p>
+<h1><p><center> 5K MARATHON EVENT</center></p><h1>
 </div>
 <img src="runevent.jpg" alt="runevent.jpg" class="center" style="width:70%">
 
